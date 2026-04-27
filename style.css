@@ -1,0 +1,20 @@
+.heading{
+    color: red;
+    background-color: blanchedalmond;
+    border: 1px solid black;
+}
+h1{
+    border: inherit;
+}
+p{
+    color: red !important;
+}
+#para{
+    color: blue;
+}
+p{
+    color: green ;
+}
+.paragraph{
+    color:rgb(117, 72, 72)  ;
+}
